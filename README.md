@@ -50,7 +50,7 @@ This project focuses on detection engineering, rule tuning, and analyst-ready vi
 ## Validation Evidence
 **Elastic SIEM – Detection Rule Creation and Preview (Zeek DNS)**
 
-![Elastic SIEM Zeek Detection Rule](screenshots/zeek-detection-rule.png)
+![Elastic SIEM Zeek detection rule](screenshots/elastic-zeek-detection-rule.png)
 
 ---
 
