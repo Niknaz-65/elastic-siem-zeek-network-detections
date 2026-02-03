@@ -53,6 +53,10 @@ This project focuses on detection engineering, rule tuning, and analyst-ready vi
 ![Elastic SIEM Zeek detection rule](screenshots/elastic-zeek-detection-rule.png)
 
 ---
+## Reports
+
+- [Zeek_Installation_Initial_Validation_Ubuntu24.pdf](Zeek_Installation_Initial_Validation_Ubuntu24.pdf)
+- [Zeek_Network_Telemetry_Deployment_and_Validation.pdf](Zeek_Network_Telemetry_Deployment_and_Validation.pdf)
 
 ## SOC Relevance
 This project demonstrates:
